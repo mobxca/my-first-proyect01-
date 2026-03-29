@@ -9,7 +9,7 @@ body {
 
 /* Estilos del encabezado */
 header {
-    background-color: #50422c;
+    background-color: #2c2d50;
     color: white;
     padding: 20px;
     text-align: center;
@@ -23,7 +23,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #34495e;
+    background-color: #34485e;
     border-radius: 3px;
 }
 
@@ -42,14 +42,14 @@ section {
 }
 
 h2 {
-    color: #50372c;
-    border-bottom: 2px solid #db8d34;
+    color: #312c50;
+    border-bottom: 2px solid #6634db;
     padding-bottom: 5px;
 }
 
 /* Estilos del pie de página */
 footer {
-    background-color: #50372c;
+    background-color: #372c50;
     color: white;
     text-align: center;
     padding: 15px;
